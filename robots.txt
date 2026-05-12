@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /dev/static/
+Disallow: /assets/static/
+
+Sitemap: https://agilepy.com/sitemap.xml
